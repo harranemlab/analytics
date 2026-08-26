@@ -1,0 +1,25 @@
+{
+  "active_program": "default",
+  "analysis_method": "PC-ATT-5.5",
+  "app_version": "7.0.1",
+  "assurance_version": "ASSURANCE-5.5",
+  "build_id": "GRAPH-LENS-V701-20260823-A",
+  "calculation_spec": "PCYS-CALC-SPEC-1.0",
+  "feature_version": "EQ-5.2",
+  "generated_at": "2026-08-23T08:31:03",
+  "intelligence_version": "INTEL-6.0.0",
+  "method_bundle": {
+    "attainment": "ATT-2.0",
+    "cqi": "CQI-1.1",
+    "quality": "MQG-2.0",
+    "resit": "RESIT-1.0",
+    "threshold": "THR-1.0",
+    "uncertainty": "UNC-BOOT-1.2"
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "pyqt": "6.11.0",
+  "python": "3.12.10",
+  "qt": "6.11.0",
+  "rule_pack": "PCYS-ACCREDITATION-2026",
+  "schema_version": 13
+}

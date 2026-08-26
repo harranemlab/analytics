@@ -1,0 +1,1878 @@
+{
+  "config_version": 1,
+  "curriculum_id": "HU-EEM-2026",
+  "courses": [
+    {
+      "semester": 1,
+      "code": "2405000101",
+      "name": "ALGORİTMALAR VE PROGRAMLAMA I",
+      "tul": "2+2+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G01",
+      "name": "Atatürk İlke ve İnkılap Tarihi-I",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G03",
+      "name": "FİZİK 1",
+      "tul": "3+1+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G07",
+      "name": "MATEMATİK 1",
+      "tul": "3+1+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G09",
+      "name": "Türk Dili-I",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G10",
+      "name": "Yabancı Dil I (İngilizce)",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G13",
+      "name": "DOĞRUSAL CEBİR",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 1,
+      "code": "2463000G18",
+      "name": "KARİYER PLANLAMA",
+      "tul": "1+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2405000201",
+      "name": "ALGORİTMALAR VE PROGRAMLAMA II",
+      "tul": "2+2+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2405000202",
+      "name": "MÜHENDİSLİĞE GİRİŞ",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B01",
+      "name": "Atatürk İlke ve İnkılapları-2",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B03",
+      "name": "FİZİK II",
+      "tul": "3+1+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B07",
+      "name": "MATEMATİK II",
+      "tul": "3+1+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B09",
+      "name": "Türk Dili II",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B10",
+      "name": "Yabancı Dil II",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 2,
+      "code": "2463000B22",
+      "name": "SAYISAL ANALİZ",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070301",
+      "name": "MALZEME KİMYASI",
+      "tul": "3+1+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070302",
+      "name": "MÜHENDİSLİK MATEMATİĞİ",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070303",
+      "name": "ELEKTRİK DEVRELERİ I",
+      "tul": "4+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070304",
+      "name": "ELEKTRİK DEVRE VE TASARIM LABORATUARI I",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070305",
+      "name": "SAYISAL MANTIK DEVRELERİ TASARIM LABORATUARI",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070306",
+      "name": "SAYISAL MANTIK DEVRELERİ",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 3,
+      "code": "2405070307",
+      "name": "OLASILIK VE İSTATİSTİK",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070401",
+      "name": "ELEKTRİK DEVRELERİ II",
+      "tul": "4+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070402",
+      "name": "ELEKTRONİK DEVRELER I",
+      "tul": "4+0+0",
+      "type": "Zorunlu",
+      "ects": 5,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070403",
+      "name": "ELEKTRONİK DEVRE VE TASARIM LABORATUARI I",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070404",
+      "name": "ELEKTROMANYETİK ALAN TEORİSİ",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 3,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070405",
+      "name": "İŞARETLER VE SİSTEMLER",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 3,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070406",
+      "name": "STAJ I",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 3,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2405070407",
+      "name": "AYRIK MATEMATİK",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 4,
+      "code": "2463000B12",
+      "name": "DİFERANSİYEL DENKLEMLER",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 6,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070501",
+      "name": "ELEKTRONİK DEVRE VE TASARIM LABORATUARI II",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070502",
+      "name": "ELEKTRİK MAKİNELERİ I",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 5,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070503",
+      "name": "ELEKTRİK MAKİNELERİ VE TASARIM LABORATUARI I",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070504",
+      "name": "HABERLEŞME",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070505",
+      "name": "HABERLEŞME LABORATUARI",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070506",
+      "name": "ELEKTROMANYETİK DALGA TEORİSİ",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070507",
+      "name": "ELEKTRONİK DEVRELER II",
+      "tul": "4+0+0",
+      "type": "Zorunlu",
+      "ects": 5,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2405070508",
+      "name": "OTOMATİK KONTROL SİSTEMLERİ",
+      "tul": "4+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 5,
+      "code": "2463000G15",
+      "name": "GİRİŞİMCİLİK",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070601",
+      "name": "ELEKTRİK MAKİNELERİ II",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 3,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070602",
+      "name": "ELEKTRİK MAKİNELERİ VE TASARIM LABORATUARI II",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070603",
+      "name": "MİKROİŞLEMCİLER",
+      "tul": "3+0+0",
+      "type": "Zorunlu",
+      "ects": 4,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070604",
+      "name": "MİKROİŞLEMCİLER VE TASARIM LABORATUARI",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070605",
+      "name": "STAJ II",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 3,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2463000B24",
+      "name": "YAŞAM BOYU ÖĞRENME",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "M.S.D.1",
+      "name": "MESLEKİ SEÇMELİ DERSLER 1",
+      "tul": "3+0+0",
+      "type": "Grup",
+      "ects": 10,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070606",
+      "name": "(M.S.D.1) ELEKTRİK TESİSLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070607",
+      "name": "(M.S.D.1) GÜÇ ELEKTRONİĞİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070608",
+      "name": "(M.S.D.1) SAYISAL ELEKTRONİK DEVRELERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070609",
+      "name": "(M.S.D.1) MİKROELEKTRONİK DEVRELER",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070610",
+      "name": "(M.S.D.1) ELEKTROMEKANİK ENERJİ DÖNÜŞÜMÜ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070611",
+      "name": "(M.S.D.1) SAYISAL İŞARET İŞLEME",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2405070612",
+      "name": "(M.S.D.1) SAYISAL HABERLEŞME SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "S.S.D.1",
+      "name": "SOSYAL SEÇMELİ DERSLER 1",
+      "tul": "2+0+0",
+      "type": "Grup",
+      "ects": 2,
+      "group": "S.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "2463000B21",
+      "name": "MESLEK ETİĞİ",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070614",
+      "name": "(S.S.D.1) ÇEVRE BİLİNCİ VE ETİK",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "S.S.D.1"
+    },
+    {
+      "semester": 6,
+      "code": "S.S.D.2",
+      "name": "SOSYAL SEÇMELİ DERSLER 2",
+      "tul": "2+0+0",
+      "type": "Grup",
+      "ects": 2,
+      "group": "S.S.D.2"
+    },
+    {
+      "semester": 6,
+      "code": "2463000B16",
+      "name": "İLETİŞİM",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 6,
+      "code": "2405070616",
+      "name": "(S.S.D.2) ETKİLİ İLETİŞİM TEKNİKLERİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "S.S.D.2"
+    },
+    {
+      "semester": 6,
+      "code": "2405070617",
+      "name": "(S.S.D.2) İŞLETMELERDE İLETİŞİM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "S.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070701",
+      "name": "BİTİRME PROJESİ I",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 5,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 7,
+      "code": "2463000G05",
+      "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ 1",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 7,
+      "code": "M.S.D.2",
+      "name": "MESLEKİ SEÇMELİ DERSLER 2",
+      "tul": "3+0+0",
+      "type": "Grup",
+      "ects": 15,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070702",
+      "name": "(M.S.D.2) YARIİLETKENLER VE YARIİLETKEN OPTEELEKTRONİK CİHAZLAR",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070703",
+      "name": "(M.S.D.2) ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİNDE ÖZEL KONULAR 1",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070704",
+      "name": "(M.S.D.2) LİNEER SİSTEM TEORİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070705",
+      "name": "(M.S.D.2) VERİ YAPILARI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070706",
+      "name": "(M.S.D.2) NESNEYE DAYALI PROGRAMLAMA",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070707",
+      "name": "(M.S.D.2) BİLGİSAYAR İŞLETİM SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070708",
+      "name": "(M.S.D.2) WEB TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070709",
+      "name": "(M.S.D.2) ANALOG FİLTRE TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070710",
+      "name": "(M.S.D.2) ELEKTRONİK DEVRE TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070711",
+      "name": "(M.S.D.2) ANALOG ENTEGRE TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070712",
+      "name": "(M.S.D.2) SAYISAL FİLTRE TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070713",
+      "name": "(M.S.D.2) MODERN ÖLÇME TEKNİĞİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070714",
+      "name": "(M.S.D.2) TELSİZ HABERLEŞME",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070715",
+      "name": "(M.S.D.2) VERİ HABERLEŞMESİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070716",
+      "name": "(M.S.D.2) ANTENLER",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070717",
+      "name": "(M.S.D.2) MİKRODENETLEYİCİLER VE ENDÜSTRİYE UYGULAMALARI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070718",
+      "name": "(M.S.D.2) ROBOTİĞE GİRİŞ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070719",
+      "name": "(M.S.D.2) ENDÜSTRİYE ELEKTRONİK",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070720",
+      "name": "(M.S.D.2) SAYISAL KONTROL SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070721",
+      "name": "(M.S.D.2) AYDINLATMA VE İÇ TESİSAT",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070722",
+      "name": "(M.S.D.2) YÜKSEK GERİLİM TEKNİĞİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070723",
+      "name": "(M.S.D.2) GÜÇ SİSTEMLERİ ANALİZİ I",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070724",
+      "name": "(M.S.D.2) FOTOVOLTATİK SİSTEMLER",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070725",
+      "name": "(M.S.D.2) YARIİLETKEN GÜÇ DÖNÜŞTÜRÜCÜLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070726",
+      "name": "(M.S.D.2) BULANIK MANTIK",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070727",
+      "name": "(M.S.D.2) MAKİNE ÖĞRENMESİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070728",
+      "name": "(M.S.D.2) ELEKTRİK TESİSLERİNDE GÜVENLİK",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070729",
+      "name": "(M.S.D.2) İLETİŞİM SİSTEMLERİ TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "2405070730",
+      "name": "(M.S.D.2) TIBBİ GÖRÜNTÜLEME TEMELLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.2"
+    },
+    {
+      "semester": 7,
+      "code": "UNV.SEC.7",
+      "name": "7. DÖNEM ÜNİVERSİTE SEÇMELİ DERSLER",
+      "tul": "2+0+0",
+      "type": "Grup",
+      "ects": 2,
+      "group": "UNV.SEC.7"
+    },
+    {
+      "semester": 7,
+      "code": "Y.D.S.1",
+      "name": "YABANCI DİL SEÇMELİ DERSLER 1",
+      "tul": "4+0+0",
+      "type": "Grup",
+      "ects": 6,
+      "group": "Y.D.S.1"
+    },
+    {
+      "semester": 7,
+      "code": "2405070731",
+      "name": "(Y.D.S.1) MESLEKİ AKADEMİK İNGİLİZCE I",
+      "tul": "4+0+0",
+      "type": "Seçmeli",
+      "ects": 6,
+      "group": "Y.D.S.1"
+    },
+    {
+      "semester": 7,
+      "code": "2405070732",
+      "name": "(Y.D.S.1) MESLEKİ KONUŞMA İNGİLİZCESİ",
+      "tul": "4+0+0",
+      "type": "Seçmeli",
+      "ects": 6,
+      "group": "Y.D.S.1"
+    },
+    {
+      "semester": 8,
+      "code": "2405070801",
+      "name": "BİTİRME PROJESİ II",
+      "tul": "0+2+0",
+      "type": "Zorunlu",
+      "ects": 5,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 8,
+      "code": "2463000B05",
+      "name": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
+      "tul": "2+0+0",
+      "type": "Zorunlu",
+      "ects": 2,
+      "group": "Zorunlu"
+    },
+    {
+      "semester": 8,
+      "code": "M.S.D.3",
+      "name": "MESLEKİ SEÇMELİ DERSLER 3",
+      "tul": "3+0+0",
+      "type": "Grup",
+      "ects": 15,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070802",
+      "name": "(M.S.D.3) GÜNEŞ ENERJİ TEMELLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070803",
+      "name": "(M.S.D.3) SENSÖRLER VE DÖNÜŞTÜRÜCÜLER",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070804",
+      "name": "(M.S.D.3) YAPAY SİNİR AĞLARI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070805",
+      "name": "(M.S.D.3) GÖRÜNTÜ İŞLEME",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070806",
+      "name": "(M.S.D.3) KONTROL MÜHENDİSLİĞİ İÇİN BİLGİSAYAR UYGULAMALARI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070807",
+      "name": "(M.S.D.3) ENERJİ DAĞITIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070808",
+      "name": "(M.S.D.3) MİKRODALGA ELEKTRONİĞİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070809",
+      "name": "(M.S.D.3) MİKRODALGA",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070810",
+      "name": "(M.S.D.3) PROGRAMLANABİLİR LOJİK KONTROLÖR (PLC)",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070811",
+      "name": "(M.S.D.3) ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİNDE ÖZEL KONULAR II",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070812",
+      "name": "(M.S.D.3) BİLGİSAYAR AĞLARI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070813",
+      "name": "(M.S.D.3) BİYOMEDİKAL MÜHENDİSLİĞİN TEMELLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070814",
+      "name": "(M.S.D.3) MİKRODENETLEYİCİLER",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070815",
+      "name": "(M.S.D.3) OPTİK HABERLEŞME",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070816",
+      "name": "(M.S.D.3) AKILLI KONTROL SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070817",
+      "name": "(M.S.D.3) GÜÇ ELEKTRONİĞİ DEVRELERİNİN TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070818",
+      "name": "(M.S.D.3) MEKATRONİK MÜHENDİSLİĞİN TEMELLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070819",
+      "name": "(M.S.D.3) GÜÇ SİSTEMLERİ ANALİZİ II",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070820",
+      "name": "(M.S.D.3) ELEKTRİK TESİSLERİ PROJESİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070821",
+      "name": "(M.S.D.3) YENİLENEBİLİR ENERJİ SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070822",
+      "name": "(M.S.D.3) ELEKTRİK TESİSLERİNDE KORUMA TEKNİKLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070823",
+      "name": "(M.S.D.3) BİNA OTOMASYONU",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070824",
+      "name": "(M.S.D.3) ENDÜSTRİYEL DENETİM",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070825",
+      "name": "(M.S.D.3) GÖMÜLÜ SİSTEM TASARIMI",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "2405070826",
+      "name": "(M.S.D.3) DÜŞÜK GERİLİM GÜÇ SİSTEMLERİ",
+      "tul": "3+0+0",
+      "type": "Seçmeli",
+      "ects": 5,
+      "group": "M.S.D.3"
+    },
+    {
+      "semester": 8,
+      "code": "UNV.SEC.8",
+      "name": "8. DÖNEM ÜNİVERSİTE SEÇMELİ DERSLER",
+      "tul": "2+0+0",
+      "type": "Grup",
+      "ects": 2,
+      "group": "UNV.SEC.8"
+    },
+    {
+      "semester": 8,
+      "code": "Y.D.S.2",
+      "name": "YABANCI DİL SEÇMELİ DERSLER 2",
+      "tul": "4+0+0",
+      "type": "Grup",
+      "ects": 6,
+      "group": "Y.D.S.2"
+    },
+    {
+      "semester": 8,
+      "code": "2405070827",
+      "name": "(Y.D.S.2) MESLEKİ AKADEMİK İNGİLİZCE II",
+      "tul": "4+0+0",
+      "type": "Seçmeli",
+      "ects": 6,
+      "group": "Y.D.S.2"
+    },
+    {
+      "semester": 8,
+      "code": "2405070828",
+      "name": "(Y.D.S.2) MESLEKİ KONUŞMA İNGİLİZCESİ II",
+      "tul": "4+0+0",
+      "type": "Seçmeli",
+      "ects": 6,
+      "group": "Y.D.S.2"
+    },
+    {
+      "semester": 0,
+      "code": "2463010001",
+      "name": "ATLETİZM",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010002",
+      "name": "BASKETBOL",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010003",
+      "name": "FUTBOL",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010004",
+      "name": "GÜREŞ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010005",
+      "name": "KANO",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010006",
+      "name": "MASA TENİSİ",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010007",
+      "name": "OKÇULUK",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010008",
+      "name": "TAEKWANDO",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010009",
+      "name": "TENİS",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010010",
+      "name": "VOLEYBOL",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010011",
+      "name": "VÜCUT GELİŞTİRME",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010012",
+      "name": "YÜZME",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010013",
+      "name": "TEMEL İLK YARDIM BİLGİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010014",
+      "name": "YENİDOĞAN HASTALIKLARI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010015",
+      "name": "YENİDOĞAN SAĞLIĞI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463010016",
+      "name": "Halk Oyunları",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020001",
+      "name": "BASKI RESİM",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020002",
+      "name": "ÇOCUĞUN SANATSAL GELİŞİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020003",
+      "name": "DENEYSEL SANAT",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020004",
+      "name": "GELENEKSEL TÜRK EL SANATLARI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020005",
+      "name": "GELENEKSEL TÜRK SANATLARI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020006",
+      "name": "HEYKEL",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020007",
+      "name": "MÜZE EĞİTİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020008",
+      "name": "MÜZİK/PERKÜSYON",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020009",
+      "name": "SANAT FELSEFESİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020010",
+      "name": "SANAT SOSYOLOJİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020011",
+      "name": "SANAT TARİHİNE GİRİŞ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020012",
+      "name": "SANAT VE TASARIM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020013",
+      "name": "SANAT VE TERAPİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020014",
+      "name": "TEKSTİL TASARIM",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463020015",
+      "name": "TÜRK SANAT TARİHİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030001",
+      "name": "AİLE İŞLETMELERİ YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030002",
+      "name": "ÇALIŞMA EKONOMİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030003",
+      "name": "FİNANSAL YÖNETİM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030004",
+      "name": "GENEL MUHASEBE",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030005",
+      "name": "HALKLA İLİŞKİLER",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030006",
+      "name": "İKTİSADA GİRİŞ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030007",
+      "name": "İNSAN KAYNAKLARI YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030008",
+      "name": "İŞ HUKUKU",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030009",
+      "name": "İŞLETME YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030010",
+      "name": "İŞLETMELERDE BÜTÇE VE NAKİT AKIŞ YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030011",
+      "name": "KALİTE YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030012",
+      "name": "KİŞİSEL FİNANS VE YATIRIM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030013",
+      "name": "KİŞİSEL GELİŞİM VE LİDERLİK",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030014",
+      "name": "KURUMSAL YÖNETİM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030015",
+      "name": "MALİ ANALİZ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030016",
+      "name": "OPERASYON YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030017",
+      "name": "ÖRGÜTSEL DAVRANIŞ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030018",
+      "name": "PARA POLİTİKASI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030019",
+      "name": "PARA TEORİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030020",
+      "name": "PAZARLAMA",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030021",
+      "name": "ŞİRKETLER MUHASEBESİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030022",
+      "name": "TİCARET HUKUKU",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030023",
+      "name": "TÜRK VERGİ SİSTEMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030024",
+      "name": "TÜRKİYE EKONOMİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463030025",
+      "name": "YÖNETİM VE ORGANİZASYON",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040001",
+      "name": "ENERJİ VERİMLİLİĞİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040002",
+      "name": "ÇEVRE BİLİNCİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040003",
+      "name": "SÜRDÜRÜLEBİLİR KALKINMA",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040004",
+      "name": "YEŞİL DOĞA",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040005",
+      "name": "NANOBİLİM VE NANOTEKNOLOJİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2463040006",
+      "name": "WEB TASARIMI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010001",
+      "name": "YENİ BAŞLAYANLAR İÇİN FRANSIZCA",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010002",
+      "name": "17 KÜRESEL HEDEF: SÜRDÜRÜLEBİLİR GELECEK",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010003",
+      "name": "AKADEMİK ÇALIŞMALARDA DİJİTAL VE YAPAY ZEKA ARAÇLARI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010004",
+      "name": "AKTÜERYA UYGULAMALARI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010005",
+      "name": "ANADOLU VE MEZOPOTAMYA MİTOLOJİSİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010006",
+      "name": "ANADOLUDAKİ ANTİK KENTLER",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010007",
+      "name": "BAĞIMLILIKLA MÜCADELE",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010008",
+      "name": "DOĞAL AFETLER VE AFET BİLİNCİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010009",
+      "name": "ETKİLİ ÇALIŞMA YÖNTEMLERİ VE ZAMAN YÖNETİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010010",
+      "name": "FOTOĞRAFÇILIK",
+      "tul": "1+1+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010011",
+      "name": "İKLİM DEĞİŞİKLİĞİ VE TARIM",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010012",
+      "name": "İNSAN VE DOĞA ETKİLEŞİMİ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010013",
+      "name": "SAĞLIK EKONOMİSİNE GİRİŞ",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010014",
+      "name": "ŞANLIURFA KÜLTÜREL PEYZAJI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010015",
+      "name": "ŞİİR SANATI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010016",
+      "name": "YAPAY ZEKA VE DİJİTAL YARATICILIK",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    },
+    {
+      "semester": 0,
+      "code": "2663010017",
+      "name": "YAŞAM BOYU AĞIZ VE DİŞ SAĞLIĞI",
+      "tul": "2+0+0",
+      "type": "Seçmeli",
+      "ects": 2,
+      "group": "ÜNV.SEÇ"
+    }
+  ]
+}

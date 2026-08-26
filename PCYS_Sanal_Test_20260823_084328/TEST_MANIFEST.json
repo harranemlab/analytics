@@ -1,0 +1,69 @@
+{
+  "analysis_smoke_test": {
+    "course": "2405070301",
+    "po_count": 4,
+    "semester": "2025-2026 Güz",
+    "students": 11,
+    "warnings": []
+  },
+  "app_version": "7.0.1",
+  "build_id": "GRAPH-LENS-V701-20260823-A",
+  "checksum_file": "SHA256SUMS.json",
+  "cohorts": {
+    "2021": 10,
+    "2022": 10,
+    "2023": 8
+  },
+  "database": {
+    "courses_synced": 24,
+    "records_synced": 744,
+    "stats": {
+      "ders": 24,
+      "gecerli": 672,
+      "kayit": 744,
+      "mufredat": 208,
+      "ogrenci": 28,
+      "tekrar": 72
+    },
+    "warnings": []
+  },
+  "file_count": 84,
+  "format": "pcys-virtual-test-workspace",
+  "format_version": 1,
+  "generated_at": "2026-08-23T08:43:31",
+  "generated_courses": [
+    "2405070301",
+    "2405070302",
+    "2405070303",
+    "2405070304",
+    "2405070305",
+    "2405070306",
+    "2405070307",
+    "2405070401",
+    "2405070402",
+    "2405070403",
+    "2405070404",
+    "2405070405",
+    "2405070406",
+    "2405070407",
+    "2463000B12",
+    "2405070501",
+    "2405070502",
+    "2405070503",
+    "2405070504",
+    "2405070505",
+    "2405070506",
+    "2405070507",
+    "2405070508",
+    "2463000G15"
+  ],
+  "repeat_enrollments": 72,
+  "requested_courses": 40,
+  "seed": 42,
+  "semesters": [
+    "2024-2025 Güz",
+    "2025-2026 Güz"
+  ],
+  "synthetic": true,
+  "unique_students": 28
+}

@@ -1,0 +1,10 @@
+{
+  "framework_id": "GENERIC-OBE-1.0",
+  "name": "Generic Outcome-Based Education",
+  "description": "Provider-neutral template. Accreditation-body-specific criteria must be supplied in a versioned rule pack.",
+  "outcome_code_pattern": "^[A-Za-z][A-Za-z0-9_.-]*$",
+  "scale": {"min": 0, "max": 100},
+  "requires_versioned_rule_pack": true,
+  "requires_method_registry": true,
+  "requires_result_fingerprint": true
+}

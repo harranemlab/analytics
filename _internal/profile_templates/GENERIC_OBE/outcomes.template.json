@@ -1,0 +1,8 @@
+{
+  "config_version": 1,
+  "outcome_set_id": "CHANGE-ME",
+  "default_total_po": 20,
+  "outcomes": [
+    {"code": "O1", "description": "Replace with institution-approved outcome", "total_po": 20}
+  ]
+}

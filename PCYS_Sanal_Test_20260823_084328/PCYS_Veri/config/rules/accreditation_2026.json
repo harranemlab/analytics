@@ -1,0 +1,134 @@
+{
+  "format": "pcys-rule-pack",
+  "version": 1,
+  "rule_pack_id": "PCYS-ACCREDITATION-2026",
+  "description": "PÇYS varsayılan akreditasyon hazırlık kuralları; kurum tarafından düzenlenebilir.",
+  "rules": [
+    {
+      "id": "STR-WEIGHT",
+      "category": "Ağırlık",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 14
+    },
+    {
+      "id": "STR-COMP",
+      "category": "Bileşen",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 14
+    },
+    {
+      "id": "CURR-MATCH",
+      "category": "Müfredat",
+      "severity": "medium",
+      "mandatory": false,
+      "penalty": 5
+    },
+    {
+      "id": "ECTS-MATCH",
+      "category": "AKTS",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 12
+    },
+    {
+      "id": "MAP-PERCENT",
+      "category": "Percent",
+      "severity": "medium",
+      "mandatory": false,
+      "penalty": 4
+    },
+    {
+      "id": "RESIT-MAP",
+      "category": "Bütünleme",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 12
+    },
+    {
+      "id": "PO-COVERAGE",
+      "category": "PÇ",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 12
+    },
+    {
+      "id": "PO-TOTAL",
+      "category": "Total_PÇ",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 12
+    },
+    {
+      "id": "DECL-MEAS",
+      "category": "Beyan",
+      "severity": "medium",
+      "mandatory": true,
+      "penalty": 7
+    },
+    {
+      "id": "ECTS-WORKLOAD",
+      "category": "İş Yükü",
+      "severity": "medium",
+      "mandatory": false,
+      "penalty": 5
+    },
+    {
+      "id": "LO-MAP",
+      "category": "ÖÇ",
+      "severity": "medium",
+      "mandatory": false,
+      "penalty": 5
+    },
+    {
+      "id": "STUDENT-DATA",
+      "category": "Öğrenci",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 14
+    },
+    {
+      "id": "GRADE-DATA",
+      "category": "Not",
+      "severity": "medium",
+      "mandatory": true,
+      "penalty": 7
+    },
+    {
+      "id": "SAMPLE-SIZE",
+      "category": "Örneklem",
+      "severity": "low",
+      "mandatory": false,
+      "penalty": 2
+    },
+    {
+      "id": "ANALYSIS-RUN",
+      "category": "Analiz",
+      "severity": "low",
+      "mandatory": false,
+      "penalty": 2
+    },
+    {
+      "id": "MEAS-QUALITY",
+      "category": "Ölçme",
+      "severity": "medium",
+      "mandatory": true,
+      "penalty": 7
+    },
+    {
+      "id": "DECISION-UNC",
+      "category": "Karar",
+      "severity": "medium",
+      "mandatory": true,
+      "penalty": 7
+    },
+    {
+      "id": "CQI-RECORD",
+      "category": "İyileştirme",
+      "severity": "high",
+      "mandatory": true,
+      "penalty": 14
+    }
+  ]
+}

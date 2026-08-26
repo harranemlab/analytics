@@ -1,0 +1,152 @@
+{
+  "config_version": 1,
+  "outcome_set_id": "HU-EEM-PO-2026",
+  "default_total_po": 29.0,
+  "outcomes": [
+    {
+      "code": "P1.1",
+      "description": "Matematik, fen bilimleri ve ilgili mühendislik disiplinine özgü konularda yeterli bilgi birikimi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P1.2",
+      "description": "bu alanlardaki kuramsal ve uygulamalı bilgileri, karmaşık mühendislik problemlerinin çözümündekullanabilme becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P2.1",
+      "description": "Karmaşık mühendislik problemlerini tanımlama, formüle etme ve çözme becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P2.2",
+      "description": "bu amaçla uygun analiz ve modelleme yöntemlerini seçme ve uygulama becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P3.1",
+      "description": "Karmaşık bir sistemi, süreci, cihazı veya ürünü gerçekçi kısıtlar ve koşullar altında, belirligereksinimleri karşılayacak şekilde tasarlama becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P3.2",
+      "description": "bu amaçla modern tasarım yöntemlerini uygulama becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P4.1",
+      "description": "Mühendislik uygulamalarında karşılaşılan karmaşık problemlerin analizi ve çözümü için gerekli olanmodern teknik ve araçları seçme ve kullanma becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P4.2",
+      "description": "bilişim teknolojilerini etkin bir şekilde kullanma becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P5.1",
+      "description": "Karmaşık mühendislik problemlerinin veya disipline özgü araştırma konularının incelenmesi için deneytasarlama",
+      "total_po": 29.0
+    },
+    {
+      "code": "P5.2",
+      "description": "deney yapma,",
+      "total_po": 29.0
+    },
+    {
+      "code": "P5.3",
+      "description": "veri toplama, sonuçları analiz etme ve yorumlama becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P6.1",
+      "description": "Disiplin içi takımlarda etkin biçimde çalışabilme becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P6.2",
+      "description": "Çok disiplinli takımlarda etkin biçimde çalışabilme becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P6.3",
+      "description": "bireysel çalışma becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.1",
+      "description": "Sözlü ve yazılı etkin iletişim kurma becerisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.2",
+      "description": "en az bir yabancı dil bilgisi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.3",
+      "description": "etkin rapor yazma ve yazılı raporları anlama, tasarım ve üretim raporları hazırlayabilme becerisi,",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.4",
+      "description": "etkin sunum yapabilme becerisi,",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.5",
+      "description": "açık ve anlaşılır talimat verme becerisi",
+      "total_po": 29.0
+    },
+    {
+      "code": "P7.6",
+      "description": "açık ve anlaşılır talimat alma becerisi",
+      "total_po": 29.0
+    },
+    {
+      "code": "P8.1",
+      "description": "Yaşam boyu öğrenmenin gerekliliği konusunda farkındalık;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P8.2",
+      "description": "bilgiye erişebilme, bilim ve teknolojideki gelişmeleri izleme ve kendini sürekli yenileme becerisi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P9.1",
+      "description": "Etik ilkelerine uygun davranma, mesleki ve etik sorumluluk ve",
+      "total_po": 29.0
+    },
+    {
+      "code": "P9.2",
+      "description": "mühendislik uygulamalarında kullanılan standartlar hakkında bilgi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P10.1",
+      "description": "Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi, iş hayatındaki uygulamalar hakkında bilgi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P10.2",
+      "description": "girişimcilik, yenilikçilik hakkında farkındalık;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P10.3",
+      "description": "sürdürülebilir kalkınma hakkında bilgi.",
+      "total_po": 29.0
+    },
+    {
+      "code": "P11.1",
+      "description": "Mühendislik uygulamalarının evrensel ve toplumsal boyutlarda sağlık, çevre ve güvenlik üzerindekietkileri ve çağın mühendislik alanına yansıyan sorunları hakkında bilgi;",
+      "total_po": 29.0
+    },
+    {
+      "code": "P11.2",
+      "description": "mühendislik çözümlerinin hukuksal sonuçları konusunda farkındalık.",
+      "total_po": 29.0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+2026-08-26 16:02:34,542 | ERROR | pcys | AnalysisPanel hesaplama başarısız: Henüz iyileştirme kaydı yok.
+Traceback (most recent call last):
+  File "pcys\legacy.py", line 14373, in compute
+  File "pcys\legacy.py", line 17430, in _compute_loop
+RuntimeError: Henüz iyileştirme kaydı yok.

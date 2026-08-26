@@ -1,0 +1,4 @@
+UYARI: BU KLASÖR YALNIZCA SANAL/SENTETİK TEST VERİSİ İÇERİR.
+Gerçek öğrenci, ders veya akreditasyon kanıtı olarak kullanılmamalıdır.
+PÇYS sürümü: 7.0.1
+Seed: 42

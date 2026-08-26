@@ -1,0 +1,7 @@
+{
+  "format": "pcys-rule-pack",
+  "version": "1.0",
+  "rule_pack_id": "GENERIC-CHANGE-ME",
+  "description": "Template only; not a claim of compliance with any named accreditation body.",
+  "rules": []
+}
