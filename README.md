@@ -15,7 +15,7 @@ Yazılımın temel amacı yalnızca PÇ başarı yüzdelerini hesaplamak değild
 
 amaçlar.
 
-> **Önemli not:** PCYS Analytics, MÜDEK tarafından yayımlanmış resmî bir yazılım değildir. MÜDEK ölçme, değerlendirme, izleme ve sürekli iyileştirme süreçlerini desteklemek amacıyla geliştirilmiş bağımsız bir akademik yazılımdır. Üretilen sonuçlar, kurumun akademik değerlendirme ve karar süreçlerinin yerine geçmez.
+> **Önemli not:**Analytics, MÜDEK tarafından yayımlanmış resmî bir yazılım değildir. MÜDEK ölçme, değerlendirme, izleme ve sürekli iyileştirme süreçlerini desteklemek amacıyla geliştirilmiş bağımsız bir akademik yazılımdır. Üretilen sonuçlar, kurumun akademik değerlendirme ve karar süreçlerinin yerine geçmez.
 
 ## Programın Temel İş Akışı
 
@@ -47,7 +47,7 @@ Bu yapı sayesinde bir dersin ölçme verileri, veri girişinden başlayarak pro
 
 ## 1. Ders ve Dönem Yönetimi
 
-PCYS Analytics, ölçme-değerlendirme sürecini ders ve dönem temelinde yönetir.
+Analytics, ölçme-değerlendirme sürecini ders ve dönem temelinde yönetir.
 
 - Yeni ders oluşturulabilir veya daha önce kaydedilmiş bir ders açılabilir.
 - Ders bilgileri ve ölçme verileri Excel dosyasından içe aktarılabilir.
@@ -141,7 +141,7 @@ inceleyebilir. Bu özellik, yalnızca nihai başarı yüzdesini göstermek yerin
 
 ## 6. Ölçme Kalitesi ve Belirsizlik Analizi
 
-PCYS Analytics, yüksek bir PÇ başarı değerinin tek başına yeterli olmadığını kabul eder. Başarım kararı ile ölçme kalitesini ayrı değerlendirir.
+ Analytics, yüksek bir PÇ başarı değerinin tek başına yeterli olmadığını kabul eder. Başarım kararı ile ölçme kalitesini ayrı değerlendirir.
 
 ### Belirsizlik ve güvenilirlik çıktıları
 
@@ -223,7 +223,7 @@ Bu yapı, tek dönemlik başarı dalgalanmaları ile kalıcı gelişim veya geri
 
 ## 10. Sürekli İyileştirme
 
-PCYS Analytics, düşük veya güvenilirliği yetersiz PÇ sonuçlarını yalnızca raporlamakla kalmaz; bunların izlenebilir iyileştirme kayıtlarına dönüştürülmesini sağlar.
+Analytics, düşük veya güvenilirliği yetersiz PÇ sonuçlarını yalnızca raporlamakla kalmaz; bunların izlenebilir iyileştirme kayıtlarına dönüştürülmesini sağlar.
 
 Her kayıt aşağıdaki zinciri içerir:
 
@@ -330,7 +330,7 @@ Bu araçlar temel PÇ hesabı için zorunlu değildir; ileri ölçme analitiği,
 
 ## Hedef Kullanıcılar
 
-PCYS Analytics aşağıdaki kullanıcı grupları için tasarlanmıştır:
+Analytics aşağıdaki kullanıcı grupları için tasarlanmıştır:
 
 - ders sorumluları,
 - bölüm ve program koordinatörleri,
