@@ -1,8 +1,8 @@
-# PCYS Analytics
+# Analytics
 
 **Program Çıktıları, Ölçme-Değerlendirme ve MÜDEK Süreçleri İçin Analitik Destek Sistemi**
 
-PCYS Analytics; derslerde üretilen öğrenci, sınav, soru ve not verilerini **öğrenme çıktıları (ÖÇ)** ile **program çıktıları (PÇ)** üzerinden analiz eden bir masaüstü yazılımıdır. Program, ders düzeyindeki ham ölçme verilerini program düzeyinde izlenebilir sonuçlara, kalite göstergelerine, raporlara ve denetlenebilir akreditasyon kanıtlarına dönüştürür.
+Analytics; derslerde üretilen öğrenci, sınav, soru ve not verilerini **öğrenme çıktıları (ÖÇ)** ile **program çıktıları (PÇ)** üzerinden analiz eden bir masaüstü yazılımıdır. Program, ders düzeyindeki ham ölçme verilerini program düzeyinde izlenebilir sonuçlara, kalite göstergelerine, raporlara ve denetlenebilir akreditasyon kanıtlarına dönüştürür.
 
 Yazılımın temel amacı yalnızca PÇ başarı yüzdelerini hesaplamak değildir. Aynı zamanda bu sonuçların:
 
